@@ -1,4 +1,7 @@
-# DAMEN (Docker, Alpine, Mongo, Express, Node)
+# Family Tree App
+Built to learn React and Redux / Hooks, eventually React Native too (?)
+
+## DAMEN (Docker, Alpine, Mongo, Express, Node)
 
 Template for initial docker setup using node:alpine, mongo-db, mongo-express and express-js and webpack, comes with babel etc..
 
